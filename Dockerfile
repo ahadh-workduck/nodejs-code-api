@@ -9,6 +9,4 @@ COPY package.json yarn.lock ./
 USER node
 
 
-COPY --chown=node:node . .
-
 EXPOSE 3000
