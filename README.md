@@ -89,12 +89,6 @@ cp .env.example .env
 
 ## Commands
 
-Running locally:
-
-```bash
-yarn dev
-```
-
 Running in production:
 
 ```bash
